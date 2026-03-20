@@ -4,4 +4,4 @@ select
     order_date,
     status
 
-from jaffle_shop_orders
+from default.jaffle_shop_orders
